@@ -1,4 +1,4 @@
-# -Dual_Band_Antenna_for_Vehicle_to_Vehicle_Communication
+# Dual_Band_Antenna_for_Vehicle_to_Vehicle_Communication
 ![image](https://github.com/thiruvazhidhinesh/-Dual_Band_Antenna_for_Vehicle_to_Vehicle_Communication/assets/111569436/dfa4e1e4-5586-4137-96ba-5f5317205190)
 <br>
 In this project, a dual-band shared aperture antenna array is designed that operates 
